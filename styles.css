@@ -1,2 +1,19 @@
+form{
+    margin:15px;
+    padding:10px;
 
+}
+.mail{
+    margin-left:75px;
+    
+}
+.dob{
+    margin-left:95px;
+}
+.button{
+    margin-left: 65px;
+}
+body{
+    background-color: aqua;
+}
 /* Your CSS Code here. */
